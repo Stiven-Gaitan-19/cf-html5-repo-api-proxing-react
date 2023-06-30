@@ -6,12 +6,6 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "@sap/cds": "^3",
-    "@sap/cds-dk": "^1.8.5",
-    "@sap/hana-client": "^2.4.0",
-    "concurrently": "^5.2.0",
-    "express": "^4",
-    "sqlite3": "^5.0.0"
   },
   "scripts": {
     "start": "npx cds run",
